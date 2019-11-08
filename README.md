@@ -1,5 +1,5 @@
 # ML_gene_expression
-Mathematica notebook to compare methods of machine learning for ribosom density on mRNA prediction
+Mathematica notebook to compare methods of machine learning for ribosom density on mRNA prediction (without redundant nucleotide features).
 
 The outcome of "Growth and division in mathematics and medicine: A collaborative incubator" workshop
 https://www.homepages.ucl.ac.uk/~ucakwat/gd.html
