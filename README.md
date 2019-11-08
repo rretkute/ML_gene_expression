@@ -12,3 +12,8 @@ Tunney R, McGlincy NJ, Graham ME, Naddaf N, Pachter L, Lareau LF. Accurate desig
 
 #### Results
 Number of genes for training n=567, number of genes for testing m=283. 
+
+| Method  | "NeuralNetwork"  |"LinearRegression"   | "RandomForest" |  "NearestNeighbors"  |
+|---|---|---|---|---|
+|  Pearson correlation |  0.496767 |  0.43612 | 0.392796  |  0.307008 |
+
